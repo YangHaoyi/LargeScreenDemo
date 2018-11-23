@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LargeScreenDemo</string>
+    <string name="large_screen_title">Hello World!</string>
+</resources>
